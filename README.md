@@ -4,15 +4,15 @@
 This application will helps to understand the phone authentication using firebase, and also help to implement the functionality to getting the device currunt location.
 
 ## Key Features
-  - **FireBase Authentication** Phone Authentication.
-  - **Persistent storage using SharedPreferences** This helps you to store tha locally on you device, you can able to get all the saved data even if you kill your app.
-  - **Device Loaction** It implemented the fetching the location of the device using geolocator that's help to get the latitude and longitude of the device.
+  - **FireBase Authentication->** Phone Authentication.
+  - **Persistent storage using SharedPreferences->** This helps you to store tha locally on you device, you can able to get all the saved data even if you kill your app.
+  - **Device Loaction->** It implemented the fetching the location of the device using geolocator that's help to get the latitude and longitude of the device.
 
 ## Technology Used
-- **Flutter**
-- **Geolocator** For fetching the longitude and latitude of the device.
-- **GoRouter**  For best management of all the application routes.
-- **Permission handler**  For Device permissions.
+- **Flutter->**
+- **Geolocator->** For fetching the longitude and latitude of the device.
+- **GoRouter->**  For best management of all the application routes.
+- **Permission handler->**  For Device permissions.
 
 ## Note
 - **Before Installing this application please make sure your device must be runing on Andriod 14**   
